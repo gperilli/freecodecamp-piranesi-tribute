@@ -278,7 +278,7 @@ header {
       rgba(0, 0, 0, 0.8) 95vw
     ),
     linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 100%),
-    url(/piranesi-tribute/assets/images/piranesi-portrait.png);
+    url(/freecodecamp-piranesi-tribute/assets/images/piranesi-portrait.png);
   background-size: cover;
   background-position: 0vw 20%;
   background-repeat: no-repeat;
